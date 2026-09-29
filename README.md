@@ -2,6 +2,8 @@
 
 **StudentManager** adalah aplikasi Android sederhana berbasis **Jetpack Compose** untuk mengelola data mahasiswa (pencatatan, pembaruan, pencarian, dan penghapusan data mahasiswa) dengan menyimpan data secara lokal menggunakan **Room Database**.
 
+[Demo Video](https://drive.google.com/file/d/1KGSuStHuKktqJl1F1v4Tsh2vD-k0cnFi/view?usp=sharing)
+
 ---
 
 ## 🚀 Fitur Utama
